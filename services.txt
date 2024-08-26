@@ -1,4 +1,2 @@
 user services are available
-Hi user,
-Demo file 
-from repository
+
